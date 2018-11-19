@@ -1,0 +1,76 @@
+body {
+    background: url("https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/17835082_3605266445396_7566967596895069358_o.jpg?_nc_cat=102&_nc_ht=scontent-lga3-1.xx&oh=ae797744806cb45ee32b15bd3ae566ab&oe=5C4C6178");
+    background-size: cover;
+    background-position: center;
+    size: cover;
+    text-align: center;
+    color: white;
+    font-family: helvetica;
+}
+
+#mediaButton{
+    color: black;
+    font-size: 22px;
+    opacity: 1.0;
+}
+
+#profile_pic{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+#h1{
+    font-size: 25px;
+    color: darkslategray;
+    font-weight: 600;
+}
+
+#h2{
+    font-size: 22px;
+    color: black;
+}
+
+.btnTxt{
+    font-size: 22px;
+    color: aliceblue;
+}
+
+.textBackground {
+    background-color: whitesmoke;
+    opacity: .8;
+    padding: 5px;
+    position: center;
+}
+
+p {
+    margin: 5px;
+}
+#startBtn{
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: cornflowerblue;
+    font-size: 25px;
+    opacity: 9;
+}
+#navBtnL{
+    padding-left: 10px;
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+    font-size: 22px;
+    background-color: darkslategray;
+}
+
+#navBtnC{
+    font-size: 22px;
+    background-color: darkslategray;
+}
+
+#navBtnR{
+    padding-right: 10px;
+    border-top-right-radius: 22px;
+    border-bottom-right-radius: 22px;
+    font-size: 22px;
+    background-color: darkslategray;
+}
